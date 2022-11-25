@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\bin\Debug\net6.0\ConsoleCalculadora.exe
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\bin\Debug\net6.0\ConsoleCalculadora.deps.json
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\bin\Debug\net6.0\ConsoleCalculadora.runtimeconfig.json
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\bin\Debug\net6.0\ConsoleCalculadora.dll
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\bin\Debug\net6.0\ConsoleCalculadora.pdb
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.dll
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\refint\ConsoleCalculadora.dll
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.pdb
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ConsoleCalculadora.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ConsoleCalculadora\ConsoleCalculadora\obj\Debug\net6.0\ref\ConsoleCalculadora.dll
